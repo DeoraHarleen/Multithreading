@@ -1,4 +1,4 @@
-![image](https://github.com/DeoraHarleen/Multithreading/assets/100436671/28bfe3aa-7a65-47ed-a6ed-2f0465670a03)# Multithreading using Python
+# Multithreading using Python
 Multiply 100 random matrices of size 1k x 1k with a constant matrix of size 1k x 1k and generate the result table and graph.
 # Methodology used in assignment:
 ## Matrix Multiplication Function: 
@@ -16,3 +16,4 @@ Finally, the code presents the results in tabular and graphical formats.
 ## Observation
 As the number of threads increases, there's an initial reduction in computation time, indicating improved efficiency through parallel processing. However, beyond a certain point, the benefits plateau or even decline due to overhead from thread management and synchronization. This underscores the critical need for judiciously selecting the number of threads based on hardware capabilities and task characteristics to achieve optimal performance.
 ## Results
+![image](https://github.com/DeoraHarleen/Multithreading/assets/100436671/28bfe3aa-7a65-47ed-a6ed-2f0465670a03)
